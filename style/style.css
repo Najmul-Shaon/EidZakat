@@ -36,26 +36,25 @@ body {
 
 /* header section end */
 
+/* universal thing */
 
 .donate-button {
     color: white;
     background-color: rgb(239, 35, 60);
     text-decoration: none;
-    margin-left: 200px;
     padding: 15px;
     border-radius: 8px;
     font-size: 20px;
+}
+
+.margin-left {
+    margin-left: 200px;
 }
 
 /* Section 01 start */
 
 .explore-banner {
     width: 50%;
-}
-
-.explore-banner h1,
-p {
-    margin-left: 200px;
 }
 
 .explore-banner h1 {
@@ -82,7 +81,35 @@ p {
 }
 
 /* section 01 end */
-.section-one {
+.section-control {
     display: flex;
     margin-top: 200px;
+}
+
+#head-paragraph {
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 200px;
+}
+
+#head-paragraph p {
+    font-size: 20px;
+}
+
+#head-paragraph>h1 {
+    font-size: 50px;
+}
+
+.direct-section {
+    margin-top: 200px;
+}
+
+.direct-help {
+    display: flex;
+    background-color: tomato;
+}
+
+.direct-image {
+    height: 50px;
 }
