@@ -1,11 +1,17 @@
+/* whole body start */
 body {
     margin: 0px;
     font-family: 'Dancing Script', cursive;
     font-family: 'Poppins', sans-serif;
     background-image: url(../images/image\ 06-1.jpg);
     background-repeat: no-repeat;
-    background-image: 100%;
 }
+
+/* whole body end */
+
+
+
+/* header section start*/
 
 #top-header {
     color: white;
@@ -25,7 +31,11 @@ body {
 #header-paragraph {
     margin: 0px 775px 50px 200px;
     color: white;
+    font-size: 20px;
 }
+
+/* header section end */
+
 
 .donate-button {
     color: white;
@@ -37,11 +47,42 @@ body {
     font-size: 20px;
 }
 
-img {
-    width: 500px;
+/* Section 01 start */
+
+.explore-banner {
+    width: 50%;
 }
 
-section{
+.explore-banner h1,
+p {
+    margin-left: 200px;
+}
+
+.explore-banner h1 {
+    font-size: 40px;
+}
+
+.explore-banner p {
+    font-size: 20px;
+}
+
+#explore-banner-h1 {
+    margin-bottom: 10px;
+}
+
+
+.explore-banner img {
+    width: 500px;
+    height: 400px;
+    margin-top: 50px;
+    margin-right: 150px;
+    margin-left: 20px;
+    border-radius: 10px;
+
+}
+
+/* section 01 end */
+.section-one {
     display: flex;
-    margin-top: 400px;
+    margin-top: 200px;
 }
