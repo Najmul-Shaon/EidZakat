@@ -9,20 +9,22 @@ body {
 
 #top-header {
     color: white;
+    margin-top: 140px;
     margin-left: 200px;
-    font-size: 45px;
+    font-size: 50px;
+    margin-bottom: 0%;
 }
 
 .second-header {
+    margin-top: 0px;
     color: white;
     margin-left: 200px;
-    font-size: 45px;
+    font-size: 50px;
 }
 
-p {
-    margin-left: 200px;
+#header-paragraph {
+    margin: 0px 775px 50px 200px;
     color: white;
-
 }
 
 .donate-button {
@@ -33,4 +35,13 @@ p {
     padding: 15px;
     border-radius: 8px;
     font-size: 20px;
+}
+
+img {
+    width: 500px;
+}
+
+section{
+    display: flex;
+    margin-top: 400px;
 }
