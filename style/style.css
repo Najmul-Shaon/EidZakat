@@ -1,0 +1,40 @@
+body {
+    margin: 0px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    background-image: url(/images/image\ 02.webp);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#top-header {
+    color: white;
+    margin-left: 200px;
+    font-size: 45px;
+}
+
+.second-header {
+    color: white;
+    margin-left: 200px;
+    font-size: 45px;
+}
+
+p {
+    margin-left: 200px;
+    color: white;
+
+}
+
+.donate-button {
+    color: white;
+    background-color: rgb(239, 35, 60);
+    text-decoration: none;
+    margin-left: 200px;
+    padding: 15px;
+    border-radius: 8px;
+    font-size: 20px;
+}
