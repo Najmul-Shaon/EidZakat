@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    background-image: url(/images/image\ 02.webp);
+    background-image: url(../images/image\ 02.webp);
     background-size: 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
