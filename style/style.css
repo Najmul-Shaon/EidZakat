@@ -2,13 +2,9 @@ body {
     margin: 0px;
     font-family: 'Dancing Script', cursive;
     font-family: 'Poppins', sans-serif;
-}
-
-header {
-    background-image: url(../images/image\ 02.webp);
-    background-size: 100%;
+    background-image: url(../images/image\ 06-1.jpg);
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-image: 100%;
 }
 
 #top-header {
