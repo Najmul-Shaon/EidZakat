@@ -90,18 +90,18 @@ body {
     margin-top: 200px;
 }
 
-#head-paragraph {
+.head-paragraph {
     text-align: center;
     margin-left: 200px;
     margin-right: 200px;
     margin-top: 200px;
 }
 
-#head-paragraph p {
+.head-paragraph p {
     font-size: 20px;
 }
 
-#head-paragraph>h1 {
+.head-paragraph h1 {
     font-size: 50px;
 }
 
@@ -129,4 +129,16 @@ body {
     margin: 10px;
     padding: 50px;
     border-radius: 5px;
+}
+
+.image-div{
+    display: flex;
+    margin-top: 200px;
+}
+
+.img-control{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    border-radius: 10px;
 }
