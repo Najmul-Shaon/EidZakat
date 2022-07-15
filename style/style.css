@@ -78,8 +78,6 @@ body {
     width: 500px;
     height: 400px;
     margin-top: 50px;
-    margin-right: 150px;
-    margin-left: 20px;
     border-radius: 10px;
 
 }
@@ -146,6 +144,10 @@ body {
 .last-image {
     height: 170px;
     border-radius: 20px 20px 0px 0px;
+}
+
+.last-image-control {
+    margin: 0px 10px 0px 10px;
 }
 
 .pay-list {
