@@ -51,6 +51,10 @@ body {
     margin-left: 200px;
 }
 
+.margin-right {
+    margin-right: 200px;
+}
+
 /* Section 01 start */
 
 .explore-banner {
@@ -107,9 +111,22 @@ body {
 
 .direct-help {
     display: flex;
-    background-color: tomato;
+
 }
 
 .direct-image {
     height: 50px;
+    padding: 20px;
+}
+
+.padding {
+    margin: 10px;
+}
+
+.div {
+    display: flex;
+    background-color: rgb(254, 244, 245);
+    margin: 10px;
+    padding: 50px;
+    border-radius: 5px;
 }
